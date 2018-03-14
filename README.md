@@ -1,1 +1,1 @@
-simpleCRUD
+Simple management application with JAVA - SpringBoot - SpringData - Angular5
